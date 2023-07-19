@@ -7,7 +7,7 @@
 
 <img src="https://github.com/SKeval/news_application/assets/100701924/d88048b8-db67-4a6c-b173-2dfcd564c136" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/d88048b8-db67-4a6c-b173-2dfcd564c136" width="200" height="400" />
 
-<img src="https://github.com/SKeval/news_application/assets/100701924/c03fb27c-3483-4e0f-be04-582d189eb8f5" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/c03fb27c-3483-4e0f-be04-582d189eb8f5" width="200" height="400" />
+<img src="https://github.com/SKeval/news_application/assets/100701924/0ef19179-1c3d-4a46-a3b3-5a762ab1ccdd" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/0ef19179-1c3d-4a46-a3b3-5a762ab1ccdd" width="200" height="400" />
 
 
 
