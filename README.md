@@ -1,4 +1,7 @@
-## news_application
+## news_application 
+
+
+<img src="https://github.com/SKeval/news_application/assets/100701924/991e7f68-7481-46c7-8dfc-81e06841a331" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/991e7f68-7481-46c7-8dfc-81e06841a331" width="200" height="400" />
 
 #Functionality
 
