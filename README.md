@@ -1,5 +1,15 @@
 ## news_application 
 
+<img src="https://github.com/SKeval/news_application/assets/100701924/a32c1ea9-4487-4213-9dce-d39af807f142" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/a32c1ea9-4487-4213-9dce-d39af807f142" width="200" height="400" />
+
+
+<img src="https://github.com/SKeval/news_application/assets/100701924/5e2862c9-d0ce-4f3d-a4d3-c3332699670d" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/5e2862c9-d0ce-4f3d-a4d3-c3332699670d" width="200" height="400" />
+
+<img src="https://github.com/SKeval/news_application/assets/100701924/d88048b8-db67-4a6c-b173-2dfcd564c136" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/d88048b8-db67-4a6c-b173-2dfcd564c136" width="200" height="400" />
+
+<img src="https://github.com/SKeval/news_application/assets/100701924/c03fb27c-3483-4e0f-be04-582d189eb8f5" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/c03fb27c-3483-4e0f-be04-582d189eb8f5" width="200" height="400" />
+
+
 
 <img src="https://github.com/SKeval/news_application/assets/100701924/991e7f68-7481-46c7-8dfc-81e06841a331" data-canonical-src="https://github.com/SKeval/news_application/assets/100701924/991e7f68-7481-46c7-8dfc-81e06841a331" width="200" height="400" />
 
